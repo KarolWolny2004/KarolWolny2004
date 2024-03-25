@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karol Wolny, and currently I am a second year student in computer science and econometrics
+- 👋 Hi, I’m Karol Wolny, and currently I am a second year student in computer science and econometrics at the University of Economics in Katowice
 - 👀 I’m interested in Data Science and Data Analyst
 - 🌱 I’m currently learning SQL, R, Java and SAS
 - 💞️ I’m looking for my first job
