@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBA344&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Nice+to+see+you+here!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Karol Wolny</h1>
-<h3 align="center">Currently I am a second year student in computer science and econometrics at the University of Economics in Katowice! 💻</h3>
+<h3 align="center">Currently I am a third year student in computer science and econometrics at the University of Economics in Katowice! 💻</h3>
 
 - 🌱 I’m currently learning SQL, R, Java and SAS
 - 👀 I’m interested in Data Science and Data Analyst
